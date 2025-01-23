@@ -1,6 +1,6 @@
 # React_Interview_Question
 
-#1.What is a generator function in JavaScript? How does it work?
+<b>1.What is a generator function in JavaScript? How does it work?</b> <br>
 A generator function is a special type of function that can be paused and resumed. It is defined using the function* syntax and uses the yield keyword to yield values. Generators are useful for implementing iterators.
 
 2.Explain closures in JavaScript:
